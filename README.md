@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rinku Borah</h1>
 <h3 align="center">A student and an aspiring Developer from India.</h3>
-<img align="right" alt="coding" width="250" src="https://bestanimations.com/Books/reading-book-rainy-day-illustration-animated-gif.gif"
+<img align="right" alt="coding" width="200" src="https://bestanimations.com/Books/reading-book-rainy-day-illustration-animated-gif.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinkuborah&label=Profile%20views&color=0e75b6&style=flat" alt="rinkuborah" /> </p>
 
